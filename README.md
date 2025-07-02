@@ -13,7 +13,6 @@ A simple and mdoern AI chatbot web app built with React, designed for small comp
 - 🌙 Dark mode / Light mode toggle
 - 💾 Download chat history as a file
 - 🔊 Sound notifications for new messages
-- 🕒 Persistent chat history (saved locally)
 - 📱 Responsive design for desktop and mobile
 - 🎨 Modern UI/UX
 - 🌐 Easy deployment to Vercel
